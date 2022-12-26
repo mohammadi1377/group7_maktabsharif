@@ -1,0 +1,2 @@
+Variables are one of those things that are actually quite easy to use but are also quite easy 
+to get yourself into trouble with if you don't properly understand how they work. Q
